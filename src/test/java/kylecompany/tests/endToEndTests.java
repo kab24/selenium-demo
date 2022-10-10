@@ -1,8 +1,22 @@
 package kylecompany.tests;
 
-public class endToEndTests {
+import kylecompany.tests.BaseTest;
+
+public class endToEndTests extends BaseTest{
     /*
     execute tests here
+
+     */
+    /*
+    @Test
+    public void verifyAbleToBuySocks{
+    }
+    @Test
+    public void verifyAbleToBuyTwoDifferentBrandsOfSocks{
+    }
+    @Test
+    public void verifyAbleToBuyDifferentColorsOfSocks{
+    }
 
      */
 }
